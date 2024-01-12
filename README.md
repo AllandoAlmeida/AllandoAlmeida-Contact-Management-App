@@ -1,9 +1,9 @@
-## M6-E1-Contact-Management-FrontEnd
+## Contact-Management-App
 
 A Aplicação constem uma plataforma que possibilita realizar o Login, para os usuarios não cadastrado, no tela de login existe a possbilidade de acessar a tela para realizar o cadastro.
 
-Para executar a aplicação basta abrir o terminal na raiz do diretório "M6-E1-Contact-Management-FrontEnd"
-e rodar o comando `npm run dev`. A porta padrão para acessar a api é a 3000. `http://localhost:3000`
+Para executar a aplicação basta abrir o terminal na raiz do diretório "Contact-Management-App"
+e rodar o comando `npm run dev`. A porta padrão para acessar localmmente é a 3000. `http://localhost:3000`
 
 
 
